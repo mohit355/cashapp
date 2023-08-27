@@ -1,5 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import "./fonts/Agrandir-GrandHeavy.otf";
+import "./fonts/Agrandir-GrandLight.otf";
+import "./fonts/Agrandir-Narrow.otf";
+import "./fonts/Agrandir-Regular.otf";
+import "./fonts/Agrandir-TextBold.otf";
+import "./fonts/Agrandir-ThinItalic.otf";
+import "./fonts/Agrandir-Tight.otf";
+import "./fonts/Agrandir-WideBlackItalic.otf";
+import "./fonts/Agrandir-WideLight.otf";
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
